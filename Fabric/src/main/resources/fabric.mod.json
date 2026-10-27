@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "surfacemushrooms",
-  "version": "3.8",
+  "version": "3.8.1",
 
   "name": "Surface Mushrooms",
   "description": "Mushrooms can be placed on the surface in daylight and in any brightness.",
